@@ -98,6 +98,3 @@ After completing this task, the learner will:
 - Explain conditional flow clearly in interviews
 
 ---
-
-## Note
-This project is part of an internship training task focused on conditional logic and decision-making in Python.
